@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ## 统计信息
 <div align="center">
-  <img  height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=liudh56&locale=en&line_height=33&show_icons=true&hide=prs,issues&theme=dark&rank_icon=github"/>&emsp; 
-  <img  height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liudh56&locale=en&line_height=33&theme=dark&langs_count=10&layout=compact"/>
+  <img  height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=liudh56&locale=en&line_height=33&show_icons=true&hide=prs,issues&theme=dracula&rank_icon=github"/>&emsp; 
+  <img  height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liudh56&locale=en&line_height=33&theme=dracula&langs_count=10&layout=compact"/>
 </div>
