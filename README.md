@@ -15,14 +15,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display: flex; align-items: center; justify-content: center; margin: 10px" align="center">
-  <img align=center src="https://img.shields.io/github/stars/liudh56?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px" />&emsp;
-  <a href="https://fireflye.top" target="_blank"><img align=center src="https://img.shields.io/badge/Blog-博客-%230099d0?style=flat"/></a>&emsp;
-  <img align=center src="https://img.shields.io/github/followers/liudh56?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)" style="margin: 0 5px" />&emsp;
-</div>
+  <p align="center">                                                                                                                                          
+     <a href="https://github.com/liudh56">
+       <img
+         alt="GitHub Stars"
+         src="https://img.shields.io/github/stars/liudh56?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=595959&amp;color=037ebb"
+       />
+     </a>
+     &nbsp;
+     <a href="https://fireflye.top">
+       <img
+         alt="个人博客"
+         src="https://img.shields.io/badge/Blog-%E5%8D%9A%E5%AE%A2-0099d0?style=flat&amp;logo=hexo&amp;logoColor=white"
+       />
+     </a>
+     &nbsp;
+     <a href="https://github.com/liudh56?tab=followers">
+       <img
+         alt="GitHub Followers"
+         src="https://img.shields.io/github/followers/liudh56?style=flat&amp;logo=github&amp;logoColor=white&amp;labelColor=595959&amp;color=037ebb"
+       />
+     </a>
+   </p> 
 
-## 统计信息
-<div align="center">
-  <img  height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=liudh56&locale=en&line_height=33&show_icons=true&hide=prs,issues&theme=dracula&rank_icon=github"/>&emsp; 
-  <img  height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liudh56&locale=en&line_height=33&theme=dracula&langs_count=10&layout=compact"/>
-</div>
+   ## 统计信息
+
+   <div align="center">
+     <img
+       height="160"
+       align="center"
+       alt="GitHub 统计信息"
+       src="https://github-stats-extended.vercel.app/api?username=liudh56&locale=en&line_height=33&show_icons=true&hide=prs,issues&theme=dracula&rank_icon=github"
+     />&emsp;
+     <img
+       height="160"
+       align="center"
+       alt="常用编程语言"
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=liudh56&locale=en&line_height=33&theme=dracula&langs_count=10&layout=compact"
+     />
+   </div>                    
